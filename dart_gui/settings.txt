@@ -1,0 +1,4 @@
+Time interval:50000
+Year:2013
+Term:10
+*10=fall, 20=spring*

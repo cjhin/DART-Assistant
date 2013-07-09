@@ -1,0 +1,6 @@
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=16907&TERM=201310&P=1
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=11324&TERM=201310&P=1
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=18937&TERM=201310&P=1
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=18938&TERM=201310&P=1
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=18556&TERM=201310&P=1
+https://wlsx-prod.nd.edu/reg/srch/ClassSearchServlet?CRN=10023&TERM=201310&P=1

@@ -1,0 +1,5 @@
+Stop on opening:false
+Time interval:60000
+Year:2011
+Term:10
+*10=fall, 20=spring*
